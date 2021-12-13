@@ -1,0 +1,17 @@
+.loginContainer {
+  margin: 5rem auto;
+  top: 160px;
+  left: 442px;
+  width: 557px;
+  height: 500px;
+  padding: 5%;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 30px 36px #557da526;
+  border-radius: 20px;
+  opacity: 1;
+}
+
+.forgetPassLink {
+  display: grid;
+  justify-content: end;
+}

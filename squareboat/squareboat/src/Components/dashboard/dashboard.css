@@ -1,0 +1,21 @@
+.cardWrapper {
+  width: 18rem;
+  margin-bottom: 1rem;
+}
+
+.wrapper {
+  width: 80%;
+  margin: 2rem auto;
+}
+
+.cardButton {
+  width: max-content;
+  height: 2rem;
+  font-size: 10px;
+}
+
+.textWrapper {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
